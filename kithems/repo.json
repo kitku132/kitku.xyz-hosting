@@ -5,16 +5,16 @@
       "description": "random themes I find cool (don't sue me theme authors pwease :3 )"
     },
     "themes": [
-      "Dark_Matter/theme.css",
-      "Discord+/theme.css",
-      "DiscordNight/theme.css",
-      "GitHub_Dark/theme.css",
-      "midnight/theme.css",
-      "Nocturnal/theme.css",
-      "RadialStatus/theme.css",
-      "Slate/theme.css",
-      "SoftX/theme.css",
-      "Tokyo_Night/theme.css",
-      "Ultra/theme.css",
+      "./Dark_Matter/theme.css",
+      "./Discord+/theme.css",
+      "./DiscordNight/theme.css",
+      "./GitHub_Dark/theme.css",
+      "./midnight/theme.css",
+      "./Nocturnal/theme.css",
+      "./RadialStatus/theme.css",
+      "./Slate/theme.css",
+      "./SoftX/theme.css",
+      "./Tokyo_Night/theme.css",
+      "./Ultra/theme.css",
     ]
   }
